@@ -1,0 +1,26 @@
+{
+  "name": "lesson9",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint src",
+    "lint:fix": "eslint src --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vladyslav-Andrievych/front-end-tools-lesson9.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vladyslav-Andrievych/front-end-tools-lesson9/issues"
+  },
+  "homepage": "https://github.com/Vladyslav-Andrievych/front-end-tools-lesson9#readme",
+  "devDependencies": {
+    "eslint": "^8.8.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.25.4"
+  }
+}
